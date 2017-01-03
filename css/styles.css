@@ -19,7 +19,7 @@ p {
 
 
 img{
-  width: 300px;
+  width: 600px;
 }
 
 ol {
@@ -29,4 +29,10 @@ ol {
 
 body {
   text-align: center;
+  background-color: green;
+  font-family: fantasy;
+}
+
+a {
+  color: black;
 }
